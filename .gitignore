@@ -1,0 +1,19 @@
+.DS_Store
+
+# C/C++ build outputs
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
+a.out
+
+# Local build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# Ad-hoc binaries from lessons
+01_basic_syntax/main
